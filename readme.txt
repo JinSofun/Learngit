@@ -5,3 +5,4 @@ Git have a mutable index called stage
 Git has amutable index called stage.
 Git traxks changes.
 Git tracks changes of files.
+Git add another line.
